@@ -9,4 +9,4 @@ Este projeto utiliza Computer Vision para classificar tipos similares de orquíd
 - `flowers/`: Contém as imagens de diferentes espécies de orquídeas.
     - `species1/`: Fotos da espécie 1.
     - `species2/`: Fotos da espécie 2.
-- `metadata/`: Informações adicionais e anotações.
+- `metadata/`: Informações adicionais e anotações."# orquideas_dataset" 
