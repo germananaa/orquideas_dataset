@@ -6,7 +6,9 @@ Este projeto utiliza Computer Vision para classificar tipos similares de orquíd
 - Bibliotecas tensorflow, keras, opencv-python, pillow.
 
 ## Estrutura do Dataset
-- `flowers/`: Contém as imagens de diferentes espécies de orquídeas.
-    - `species1/`: Fotos da espécie 1.
-    - `species2/`: Fotos da espécie 2.
+- `orquideas_dataset/`: Contém as imagens de diferentes espécies de orquídeas.
+    - `Dendrobium/`: Fotos da espécie Dendrobium.
+    - `Denphalaen/`: Fotos da espécie Denphalaen.
+    - `Phalaenopsis/`: Fotos da espécie Phalaenopsis.
+    - `Wanda/`: Fotos da espécie Wanda.
 - `metadata/`: Informações adicionais e anotações."# orquideas_dataset" 
